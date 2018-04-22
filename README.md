@@ -1,4 +1,4 @@
-# TreasureHunt
+# TreasureHunt ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 　　一个类似扫雷的数字解密游戏。
 　　
 ## Cover
